@@ -1,4 +1,4 @@
-week2: 線形回帰 - 多変量線形回帰1
+# week2: 線形回帰 - 多変量線形回帰1
 ## 複数フィーチャーの場合
 <img width="719" alt="2016-07-02 4 35 02" src="https://cloud.githubusercontent.com/assets/6447085/16542181/a829b936-40d9-11e6-91df-3f7171417dee.png">
 
